@@ -3,3 +3,10 @@ O que eu vou aprender na Trybe:
 - Unix
 - Bash
 - Git
+Unix
+bash
+git
+html
+css
+agora lascou
+branch posaula
